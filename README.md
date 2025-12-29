@@ -31,18 +31,31 @@ HTML5 & CSS3
 
 📂 Project Structure
 src/
+<br/>
 │
+<br/>
 ├── Components/
+<br/>
 │   ├── StudentContainer.jsx
+<br/>
 │   ├── StudentForm.jsx
+<br/>
 │   └── StudentList.jsx
+<br/>
 │
+<br/>
 ├── App.jsx
+<br/>
 ├── main.jsx
+<br/>
 ├── index.css
+<br/>
 │
+<br/>
 public/
+<br/>
 │
+<br/>
 └── index.html
 
 🧩 Component Overview
